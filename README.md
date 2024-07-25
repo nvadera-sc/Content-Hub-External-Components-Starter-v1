@@ -1,3 +1,5 @@
+ℹ️ This repository is now archived, having been replaced by a [much improved version](https://github.com/nvadera-sc/Content-Hub-External-Components-Starter)
+
 # Content Hub External Components Starter
 This is a starter project intended to help in the development of external components for Content Hub. It supports creating react components, as well as static vanilla javascript based components.
 
